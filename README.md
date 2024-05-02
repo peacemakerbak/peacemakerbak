@@ -19,7 +19,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://newseat.journey.io/p/NewSeatProduct" target="_blank">
-    <img align="center" src="https://i.ibb.co/NF6SfK8/NEWSEATE.png" alt="NewSeat" height="30" width="40" />
+    <img align="center" src="https://i.ibb.co/J2qhs99/NS.png" alt="NewSeat" height="30" width="40" />
   </a>
   <a href="https://trymelons.com" target="_blank">
     <img align="center" src="https://i.ibb.co/tPqzPxb/melonslogo.png" alt="Melons" height="40" width="40" /> 
