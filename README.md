@@ -3,7 +3,7 @@
 
 
 
-🔭 I’m currently a student at Bloom Insitutite of Technology becoming a Full Stack Developer 
+🔭 I’m currently a student at Bloom Institute of Technology becoming a Full Stack Developer 
 
 🌱 I’m currently exploring TypeScript • MongoDB • Python 
 
@@ -11,7 +11,7 @@
 
 💬 Ask me about Startups, UX/UI, or FrontEnd Development
 
-⚡ Fun fact: I have a podcast, Founders Plugin, where I chat with engineers & founders that have built popular Chrome Extensions!
+⚡ Fun fact: I have a podcast, Founders Plugin, where I chat with engineers & founders who have built popular Chrome Extensions!
 
 <h3 align="left"> Connect with me or Check Out My Projects!</h3>
 <p align="left">
@@ -19,7 +19,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://newseat.journey.io/p/NewSeatProduct" target="_blank">
-    <img align="center" src="https://i.ibb.co/J2qhs99/NS.png" alt="NewSeat" height="30" width="40" />
+    <img align="center" src="https://i.ibb.co/mt0xc33/NS.png"  height="40" width="40" />
   </a>
   <a href="https://trymelons.com" target="_blank">
     <img align="center" src="https://i.ibb.co/tPqzPxb/melonslogo.png" alt="Melons" height="40" width="40" /> 
