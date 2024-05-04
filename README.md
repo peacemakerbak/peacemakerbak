@@ -5,8 +5,6 @@
 
 🔭 I’m currently a student at Bloom Institute of Technology becoming a Full Stack Developer 
 
- 🌱 Committed to growing my skills as a SWE every day, and LOVING IT!
-
 📝 I regularly write thought pieces on my website `bakinahe.com`
 
 💬 Passionate about Startups, UX/UI, or FrontEnd Development
