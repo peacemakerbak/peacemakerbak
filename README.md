@@ -25,18 +25,18 @@
   </a>
 </p>
 
-<p align="left">
+<h3 align="left">
   <b>Languages, Technologies, and Tools:</b>
-</p>
+</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs" />
   </a>
 </p>
 
-<p align="left">
+<h3 align="left">
   <b>Currently Learning:</b>
-</p>
+</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,express,redux,firebase,nextjs,mongodb" />
