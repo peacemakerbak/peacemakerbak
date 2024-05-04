@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! I'm, ✌🏿maker </h1>
-<h3 align="center">Frontend Engineer</h3>
+
 
 
 
@@ -13,7 +13,7 @@
 
 ⚡ Fun fact: I have a podcast, Founders Plugin, where I chat with engineers & founders who have built popular Chrome Extensions!
 
-<h3 align="left"> Connect with me or Check Out My Projects!</h3>
+<h3 align="left"> Check Out My Projects!</h3>
 <p align="left">
   <a href="https://linkedin.com/in/peacemakerbak" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -23,6 +23,24 @@
   </a>
   <a href="https://trymelons.com" target="_blank">
     <img align="center" src="https://i.ibb.co/tPqzPxb/melonslogo.png" alt="Melons" height="40" width="40" /> 
+  </a>
+</p>
+
+<p align="left">
+  <b>Languages, Technologies, and Tools:</b>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Currently Learning:</b>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,express,redux,firebase,nextjs" />
   </a>
 </p>
 
