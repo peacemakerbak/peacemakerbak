@@ -14,7 +14,7 @@
 📫 How to reach me: `peacemakerbak at G ✉️ dot com` or on <a href="https://linkedin.com/in/peacemakerbak" target="_blank">LinkedIn</a></p>
 
 
-<h3 align="left"> Check Out My Projects!</h3>
+<h3 align="left"> Things I've Built!</h3>
 
   <a href="https://newseat.journey.io/p/NewSeatProduct" target="_blank">
     <img align="center" src="https://i.ibb.co/mt0xc33/NS.png"  height="40" width="40" />
