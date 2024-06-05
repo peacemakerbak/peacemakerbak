@@ -3,9 +3,9 @@
 
 
 
-🔭 I’m currently a student at Bloom Institute of Technology becoming a Full Stack Developer 
+🔭 Currently a student @ Bloom Institute of Technology becoming a Full Stack Developer 
 
-📝 I regularly write thought pieces on my website `bakinahe.com`
+📝 Talk to myself regularly on my website `bakinahe.com`
 
 💬 Passionate about Startups, UX/UI, or FrontEnd Development
 
