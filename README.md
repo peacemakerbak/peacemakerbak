@@ -22,6 +22,9 @@
   <a href="https://trymelons.com" target="_blank">
     <img align="center" src="https://i.ibb.co/tPqzPxb/melonslogo.png" alt="Melons" height="40" width="40" /> 
   </a>
+  <a href="https://www.bakinahe.com" target="_blank">
+    <img align="center" src="https://ibb.co/cw0JznX"  height="40" width="40" />
+  </a>
 </p>
 
 <h3 align="left">
