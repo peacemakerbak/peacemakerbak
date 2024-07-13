@@ -9,23 +9,11 @@
 
 💬 Passionate about Startups, UX/UI, or FrontEnd Development
 
-⚡ Fun fact: I have a podcast, `Founders Plugin`, where I chat with engineers & founders who have built popular Chrome Extensions!
+⚡ Fun fact: I have a podcast, `The Browser Podcast`,  where I chat with builders creating innovative tools and platforms on the browser!
 
 📫 How to reach me: `peacemakerbak at G ✉️ dot com` or on <a href="https://linkedin.com/in/peacemakerbak" target="_blank">LinkedIn</a></p>
 
 
-<h3 align="left"> Things I've Built!</h3>
-
-  <a href="https://newseat.journey.io/p/NewSeatProduct" target="_blank">
-    <img align="center" src="https://i.ibb.co/mt0xc33/NS.png"  height="40" width="40" />
-  </a>
-  <a href="https://trymelons.com" target="_blank">
-    <img align="center" src="https://i.ibb.co/tPqzPxb/melonslogo.png" alt="Melons" height="40" width="40" /> 
-  </a>
-  <a href="https://www.bakinahe.com" target="_blank">
-    <img align="center" src="https://ibb.co/cw0JznX"  height="40" width="40" />
-  </a>
-</p>
 
 <h3 align="left">
   <b>Languages, Technologies, and Tools:</b>
