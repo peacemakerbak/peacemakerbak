@@ -9,7 +9,7 @@
 
 💬 Passionate about Startups, UX/UI, or FrontEnd Development
 
-⚡ Fun fact: I have a podcast, `The Browser Podcast`,  where I chat with builders creating innovative tools and platforms on the browser!
+🔊 Currently building Mera, a voice ai browser assistant `meralabs.io`
 
 📫 How to reach me: `peacemakerbak at G ✉️ dot com` or on <a href="https://linkedin.com/in/peacemakerbak" target="_blank">LinkedIn</a></p>
 
