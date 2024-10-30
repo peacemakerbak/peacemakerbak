@@ -3,13 +3,9 @@
 
 
 
-🔭 Currently a student @ Bloom Institute of Technology becoming a Full Stack Developer 
+📝 I talk to myself regularly on my website `bakinahe.com`
 
-📝 Talk to myself regularly on my website `bakinahe.com`
-
-💬 Passionate about Startups, UX/UI, or FrontEnd Development
-
-🔊 Currently building Mera, a voice ai browser assistant `meralabs.io`
+🔊 Currently building Mera, an Autonomous Browser Assistant `meralabs.io`
 
 📫 How to reach me: `peacemakerbak at G ✉️ dot com` or on <a href="https://linkedin.com/in/peacemakerbak" target="_blank">LinkedIn</a></p>
 
